@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, My name is <a href="https://www.opecgame.online">OpecZ CH</a></h1>
 <h3 align="center">Welcome to my Github</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=opecgame&label=Profile%20views&color=0e75b6&style=flat" alt="opecgame" /> </p>
+<p align="center"> <img src="https://count.getloli.com/get/@opecgame?theme=rule34" alt="opecgame" /> </p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=opecgame&no-bg=true&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="opecgame"/></p>
 
