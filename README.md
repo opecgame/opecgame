@@ -14,6 +14,7 @@
 <a href="https://twitter.com/opecgame/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@opecgame" height="30" width="40" /></a>
 <a href="https://www.instagram.com/opecgame/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@opecgame" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCRk3ktWmUDxuN9b4oM6bGgQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="OpecZ CH" height="30" width="40" /></a>
+<img align="center" src="https://discord.c99.nl/widget/theme-4/828642352259661834.png">
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opecgame&show_icons=true&locale=en&layout=compact&theme=onedark" alt="opecgame" /></p>
