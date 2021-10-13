@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=opecgame&no-bg=true&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="opecgame"/></p>
 
-- 🏢 ทำงานอยู่ที่ [oHostNetwork Co., Ltd.](https://github.com/oHostNetwork-Co-Ltd)
+- 🏢 ทำงานอยู่ที่ [Pekky Co., Ltd.](https://github.com/Pekky-Co-Ltd)
 
 <h3 align="left">Connect me:</h3>
 <p align="left">
